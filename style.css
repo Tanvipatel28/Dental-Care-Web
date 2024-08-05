@@ -1,0 +1,33 @@
+
+ul li a:hover{
+    text-decoration: underline;
+    color: darkgreen !important; 
+
+}
+.heading-main{
+    letter-spacing: 2px;
+}
+.btn-c:hover{
+         background-color: white !important;
+         color: darkgreen !important;
+} 
+.navbar-brand:hover{
+    font-size: 1.5rem;
+   font-weight: bold;
+}
+.btn-y:hover{
+       background-color: seagreen;
+       border: 0;
+       color: white !important;
+}
+.simple-para{
+    text-decoration: underline;
+}
+.btn-y:hover{
+    background-color:seagreen !important ;
+
+}
+.card{
+    border: 0 !important;
+    /* box-shadow: 10px 10px 12px 2px lightgrey; */
+}
